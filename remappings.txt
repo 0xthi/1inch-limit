@@ -1,0 +1,9 @@
+forge-std/=lib/forge-std/src/
+contracts/interfaces/=src/interfaces/
+contracts/OrderMixin.sol/=src/OrderMixin.sol/
+contracts/libraries/=src/libraries/
+contracts/helpers/=src/helpers/
+contracts/OrderRFQMixin.sol/=src/OrderRFQMixin.sol/
+contracts/LimitOrderProtocol.sol/=src/LimitOrderProtocol.sol/
+@openzeppelin/=lib/@openzeppelin/
+@chainlink/=lib/@chainlink/
